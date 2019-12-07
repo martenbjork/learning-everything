@@ -1035,7 +1035,7 @@ This section is for events and periods in human history and prehistory. At least
 13. [Russian Revolution](https://simple.wikipedia.org/wiki/Russian_Revolution "Russian Revolution")
 14. [Qing Dynasty](https://simple.wikipedia.org/wiki/Qing_Dynasty "Qing Dynasty")
 15. [Treaty of Versailles](https://simple.wikipedia.org/wiki/Treaty_of_Versailles "Treaty of Versailles")
-16. [Vietnam War](https://simple.wikipedia.org/wiki/Vietnam_War "Vietnam War")
+16. [Vietnam War](https://simple.wikipedia.org/wiki/Vietnam_War "Vietnam War") 🚀
 17. **[World War I](https://simple.wikipedia.org/wiki/World_War_I "World War I")**
 18. **[World War II](https://simple.wikipedia.org/wiki/World_War_II "World War II")**
 
