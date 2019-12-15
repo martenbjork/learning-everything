@@ -12,7 +12,7 @@
 2. litteraturbanken.se: [Litteraturbankens epubfiler](https://litteraturbanken.se/epub?showAll)
 
 ### General knowledge
-1. [List of Nobel laureates in Literature](https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Literature) 🔥
+1. [List of Nobel laureates in Literature](https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Literature) 🚀
 2. [List of Nobel Peace Prize laureates](https://en.wikipedia.org/wiki/List_of_Nobel_Peace_Prize_laureates)
 
 ### UX
