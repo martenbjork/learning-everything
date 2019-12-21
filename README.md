@@ -13,8 +13,8 @@
 2. litteraturbanken.se: [Litteraturbankens epubfiler](https://litteraturbanken.se/epub?showAll)
 
 ### Swedish geography
-1. [Landskap i Sverige](https://sv.wikipedia.org/wiki/Landskap_i_Sverige)
-2. [Landskapsblommor](https://sv.wikipedia.org/wiki/Landskapsblommor)
+1. [Landskap i Sverige](https://sv.wikipedia.org/wiki/Landskap_i_Sverige) 🚀
+2. [Landskapsblommor](https://sv.wikipedia.org/wiki/Landskapsblommor) 🚀
 3. [Sveriges största tätorter](https://sv.wikipedia.org/wiki/Mall:Sveriges_st%C3%B6rsta_t%C3%A4torter)
 
 ### General knowledge
