@@ -6,10 +6,16 @@
 ### Swedish history
 1. [Sveriges historia](https://sv.wikipedia.org/wiki/Sveriges_historia)
 2. [Sveriges stadsminister](https://sv.wikipedia.org/wiki/Sveriges_statsminister)
+3. [Historiens 100 viktigaste svenskar](https://sv.wikipedia.org/wiki/Historiens_100_viktigaste_svenskar)
 
 ### Swedish culture
 1. Runeberg: [En nordisk kanon: "Börja läsa här!"](http://runeberg.org/admin/kanon.html)
 2. litteraturbanken.se: [Litteraturbankens epubfiler](https://litteraturbanken.se/epub?showAll)
+
+### Swedish geography
+1. [Landskap i Sverige](https://sv.wikipedia.org/wiki/Landskap_i_Sverige)
+2. [Landskapsblommor](https://sv.wikipedia.org/wiki/Landskapsblommor)
+3. [Sveriges största tätorter](https://sv.wikipedia.org/wiki/Mall:Sveriges_st%C3%B6rsta_t%C3%A4torter)
 
 ### General knowledge
 1. [List of Nobel laureates in Literature](https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Literature) 🚀
