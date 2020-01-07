@@ -21,6 +21,9 @@
 4. [Lista över Sveriges tätorter](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_t%C3%A4torter) 🚀
 5. [Landskapsdjur](https://sv.wikipedia.org/wiki/Landskapsdjur)
 
+### Music
+1. [Kickass Classical Top 100](http://kickassclassical.com//classical-music-popular-famous-best-top-100-list.html) 📌 Download mp3 files using Chrome Inspector
+
 ### General knowledge
 1. [List of Nobel laureates in Literature](https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Literature) 🚀
 2. [List of Nobel Peace Prize laureates](https://en.wikipedia.org/wiki/List_of_Nobel_Peace_Prize_laureates)
