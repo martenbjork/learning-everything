@@ -23,6 +23,7 @@
 
 ### Music
 1. [Kickass Classical Top 100](http://kickassclassical.com//classical-music-popular-famous-best-top-100-list.html) 📌 Download mp3 files using Chrome Inspector
+2. [Timeline of composers](https://en.wikipedia.org/w/index.php?title=List_of_classical_music_composers_by_era&action=submit) with [custom data](https://gist.github.com/martenbjork/193881ac349c170bf806faf84be85148)
 
 ### General knowledge
 1. [List of Nobel laureates in Literature](https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Literature) 🚀
