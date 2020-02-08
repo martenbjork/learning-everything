@@ -35,6 +35,9 @@
 #### Art
 1. [Top 100 Masterpieces - World's Most Famous Paintings](https://www.brushwiz.com/most-famous-paintings/)
 
+#### World history
+1. [Infolapse: News and Events Year-by-Year](https://www.infoplease.com/yearbyyear)
+
 ---
 # Must-be-translated articles according to Wikipedia
 
