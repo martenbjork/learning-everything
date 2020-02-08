@@ -32,6 +32,9 @@
 ### UX
 1. [22 Basic UX Laws That Every Designer Should Know](https://www.shopify.ca/partners/blog/ux-laws)
 
+#### Art
+1. [Top 100 Masterpieces - World's Most Famous Paintings](https://www.brushwiz.com/most-famous-paintings/)
+
 ---
 # Must-be-translated articles according to Wikipedia
 
