@@ -8,7 +8,7 @@
 2. [Sveriges stadsminister](https://sv.wikipedia.org/wiki/Sveriges_statsminister)
 3. [Historiens 100 viktigaste svenskar](https://sv.wikipedia.org/wiki/Historiens_100_viktigaste_svenskar)
 4. Populär historia: [100 händelser som skakade Sverige](https://popularhistoria.se/sveriges-historia/100-handelser-som-skakade-sverige)
-5. [Lista över Sveriges regenter](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_regenter)
+5. [Lista över Sveriges regenter](https://sv.wikipedia.org/wiki/Lista_%C3%B6ver_Sveriges_regenter) 🚀
 
 ### Swedish culture
 1. Runeberg: [En nordisk kanon: "Börja läsa här!"](http://runeberg.org/admin/kanon.html)
