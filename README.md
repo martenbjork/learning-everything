@@ -37,7 +37,8 @@
 
 ### World history
 1. [Infolapse: News and Events Year-by-Year](https://www.infoplease.com/yearbyyear)
-
+2. [Timeline of the 21st century](https://en.wikipedia.org/wiki/Timeline_of_the_21st_century)
+2. [Timeline of the 20st century](https://en.wikipedia.org/wiki/Timeline_of_the_20th_century)
 ---
 # Must-be-translated articles according to Wikipedia
 
