@@ -35,10 +35,21 @@
 ### Art
 1. [Top 100 Masterpieces - World's Most Famous Paintings](https://www.brushwiz.com/most-famous-paintings/)
 
+### Literature
+1. [The 100 greatest novels of all time: The list](https://www.theguardian.com/books/2003/oct/12/features.fiction)
+
 ### World history
 1. [Infolapse: News and Events Year-by-Year](https://www.infoplease.com/yearbyyear)
 2. [Timeline of the 21st century](https://en.wikipedia.org/wiki/Timeline_of_the_21st_century)
 2. [Timeline of the 20st century](https://en.wikipedia.org/wiki/Timeline_of_the_20th_century)
+
+### Latin
+1. [300 Most Common Latin Words](http://www.inrebus.com/latinwords.php)
+2. [The 100 Most Common Written Words in Latin](https://blogs.transparent.com/latin/100-most-common-words-in-latin/) 🚀
+3. [Common Latin Words and Phrases We Use in English](https://reference.yourdictionary.com/reference/other-languages/common-latin-words-and-phrases-we-use-in-english.html) ✅
+4. [https://en.wikipedia.org/wiki/List_of_Latin_phrases_(F)](https://en.wikipedia.org/wiki/List_of_Latin_phrases_(F))
+5. [https://bestlifeonline.com/latin-phrases/](https://bestlifeonline.com/latin-phrases/) ✅
+
 ---
 # Must-be-translated articles according to Wikipedia
 
