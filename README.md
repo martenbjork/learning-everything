@@ -943,7 +943,7 @@ Arts and recreation
 
 ### Architecture and civil engineering
 
-1.  **[Architecture](https://simple.wikipedia.org/wiki/Architecture "Architecture")** 🚀
+1.  **[Architecture](https://simple.wikipedia.org/wiki/Architecture "Architecture")**
 2.  [Arch](https://simple.wikipedia.org/wiki/Arch "Arch")
 3.  [Bridge](https://simple.wikipedia.org/wiki/Bridge "Bridge")
 4.  [Canal](https://simple.wikipedia.org/wiki/Canal "Canal")
