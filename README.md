@@ -12,6 +12,7 @@ Grundläggande latin | 🚀
 Swift | 🚀
 Ruby | 🚀
 Rails | 🚀
+Europas geografi | 💭
 
 # Added by me
 
