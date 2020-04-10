@@ -8,7 +8,7 @@ Landskapsdjur | ✅
 Svenska städer | 🚀
 Svenska regenter | 🚀
 Klassisk musik | 🚀
-Grundläggande latin | 🚀
+Pubquiz-latin | 🚀
 Swift | 🚀
 Ruby | 🚀
 Rails | 🚀
