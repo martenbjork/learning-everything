@@ -1,3 +1,17 @@
+# Status
+
+Topic | Status
+---|---
+Landskapsblommor | ✅
+Landskapsdjur | ✅
+Svenska städer | 🚀
+Svenska regenter | 🚀
+Klassisk musik | 🚀
+Grundläggande latin | 🚀
+Swift | 🚀
+Ruby | 🚀
+Rails | 🚀
+
 # Added by me
 
 ### Thinking
