@@ -8,6 +8,7 @@ Landskapsdjur | ✅
 Svenska städer | 🚀
 Svenska regenter | 🚀
 Klassisk musik | 🚀
+Svenska helgdagar | 🚀
 Pubquiz-latin | 🚀
 Swift | 🚀
 Ruby | 🚀
