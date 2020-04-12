@@ -9,6 +9,7 @@ Svenska städer | 🚀
 Svenska regenter | 🚀
 Klassisk musik | 🚀
 Svenska helgdagar | 🚀
+Kända ansikten | 🚀
 Pubquiz-latin | 🚀
 Swift | 🚀
 Ruby | 🚀
@@ -45,6 +46,7 @@ Europas geografi | 💭
 ### General knowledge
 1. [List of Nobel laureates in Literature](https://en.wikipedia.org/wiki/List_of_Nobel_laureates_in_Literature) 🚀
 2. [List of Nobel Peace Prize laureates](https://en.wikipedia.org/wiki/List_of_Nobel_Peace_Prize_laureates)
+3. [The 100 Most Significant Figures in History](https://ideas.time.com/2013/12/10/whos-biggest-the-100-most-significant-figures-in-history/) 🚀
 
 ### UX
 1. [22 Basic UX Laws That Every Designer Should Know](https://www.shopify.ca/partners/blog/ux-laws)
