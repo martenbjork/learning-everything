@@ -7,6 +7,7 @@ Landskapsblommor | ✅
 Landskapsdjur | ✅
 Svenska städer | 🚀
 Svenska regenter | 🚀
+Sveriges historia | 🚀
 Klassisk musik | 🚀
 Svenska helgdagar | 🚀
 Kända ansikten | 🚀
@@ -22,7 +23,7 @@ Europas geografi | 💭
 1. [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
 
 ### Swedish history
-1. [Sveriges historia](https://sv.wikipedia.org/wiki/Sveriges_historia)
+1. [Sveriges historia](https://sv.wikipedia.org/wiki/Sveriges_historia) 🚀
 2. [Sveriges stadsminister](https://sv.wikipedia.org/wiki/Sveriges_statsminister)
 3. [Historiens 100 viktigaste svenskar](https://sv.wikipedia.org/wiki/Historiens_100_viktigaste_svenskar)
 4. Populär historia: [100 händelser som skakade Sverige](https://popularhistoria.se/sveriges-historia/100-handelser-som-skakade-sverige)
