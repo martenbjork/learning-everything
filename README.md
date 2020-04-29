@@ -14,6 +14,7 @@ Kända ansikten | 🚀
 Pubquiz-latin | 🚀
 Swift | 🚀
 Ruby | 🚀
+Teaterpjäser | 🚀
 Rails | 🚀
 Europas geografi | 💭
 
