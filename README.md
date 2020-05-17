@@ -2,8 +2,8 @@
 
 Topic | Status
 ---|---
-Landskap | ✅
 Län | ✅
+Landskap | ✅
 Landskapsblommor | ✅
 Landskapsdjur | ✅
 Svenska städer | 🚀
@@ -11,13 +11,13 @@ Svenska regenter | 🚀
 Sveriges historia | 🚀
 Sveriges kulturhistoria | 🚀
 Sveriges vetenskapshistoria | 🚀
+Svenska helgdagar | 🚀
+Teaterpjäser | 🚀
 Drinkar | 🚀
 Klassisk musik | 🚀
-Svenska helgdagar | 🚀
 Kända ansikten | 🚀
 Swift | 🚀
 Ruby | 🚀
-Teaterpjäser | 🚀
 Rails | 🚀
 Europas geografi | 💭
 Vin | 💭
