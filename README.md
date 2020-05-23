@@ -19,8 +19,8 @@ Kända ansikten | 🚀
 Swift | 🚀
 Ruby | 🚀
 Rails | 🚀
+Vin | 🚀
 Europas geografi | 💭
-Vin | 💭
 
 # Added by me
 
