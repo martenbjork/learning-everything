@@ -63,6 +63,9 @@ Europas geografi | 💭
 ### Literature
 1. [The 100 greatest novels of all time: The list](https://www.theguardian.com/books/2003/oct/12/features.fiction)
 
+### Poetry
+1. [Litteraturbanken: Poesi](https://litteraturbanken.se/skolan/poesi-forfattare/)
+
 ### World history
 1. [Infolapse: News and Events Year-by-Year](https://www.infoplease.com/yearbyyear)
 2. [Timeline of the 21st century](https://en.wikipedia.org/wiki/Timeline_of_the_21st_century)
