@@ -79,7 +79,7 @@ Europas geografi | 💭
 ## 🇦🇲 Armenien
 Karta | Flagga | Historia | Religion | Språk | Mat    | Kultur | Sights  |  Övrigt
 --    |--      |--        |--        |--     | --     | --     | --      | --
-✅    |✅       |✅        |✅        |✅     |✅       |✅       |✅       | --
+✅    |✅       |✅        |✅        |✅     |✅       |✅       |✅       | ✅
 
 #### Yerevan
 Karta | Sights
