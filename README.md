@@ -22,7 +22,109 @@ Rails | 🚀
 Vin | 🚀
 Europas geografi | 💭
 
-# Added by me
+# All the world's countries and cities
+- https://en.wikipedia.org/wiki/List_of_towns_and_cities_with_100,000_or_more_inhabitants
+
+(Europe)
+
+## Russia
+
+## Ukraine	
+## France
+## Spain
+## Sweden
+## Norway
+## Germany
+## Finland	
+## Poland
+## Italy
+
+## England
+
+## Ireland
+## Northern Ireland
+## Scotland
+## WAles
+
+
+## Romania
+## Belarus
+## Kazakhstan
+## Greece	
+## Bulgaria
+## Iceland
+## Hungary
+## Portugal
+## Austria
+#### Vienna
+#### Graz
+#### Linz
+#### Salzburg
+#### Innsbruck
+## Czechia
+## Serbia
+## Kosovo
+## Ireland
+## Lithuania	
+## Latvia
+## Croatia
+## Bosnia and Herzegovina
+## Slovakia
+## Estonia
+## 🇩🇰 Denmark
+## 🇨🇭 Switzerland
+## 🇳🇱 Netherlands
+## 🇲🇩 Moldova
+## 🇧🇪 Belgium
+
+
+## 🇦🇲 Armenien
+Karta | Flagga | Historia | Mat  | Kultur | Övrigt
+--    |--      |--         |--    |--      | --
+❌    |❌       |❌        |❌     |❌      |❌    
+
+#### Yerevan
+Karta | Sights
+--    |--
+❌    |❌     
+
+
+## 🇦🇱 Albanien
+Karta | Flagga | Historia | Mat  | Kultur | Övrigt
+--    |--      |--         |--    |--      | --
+❌    |❌       |❌        |❌     |❌      |❌    
+
+#### Tirana
+Karta | Sights
+--    |--
+❌    |❌     
+
+## 🇲🇰 North Macedonia	
+## 🇹🇷 Turkey
+## 🇸🇮 Slovenia
+## 🇲🇪 Montenegro
+## Kosovo
+## Cyprus
+## Azerbaijan
+Karta | Flagga | Historia | Mat  | Kultur | Övrigt
+--    |--      |--         |--    |--      | --
+❌    |❌       |❌        |❌     |❌      |❌    
+
+#### Baku
+Karta | Sights
+--    |--
+❌    |❌     
+
+## Luxembourg
+## Georgia
+## Andorra
+## Malta
+## Liechtenstein
+## San Marino
+## Monaco	
+## Vatican City
+
+# Wikipedia
 
 ### Thinking
 1. [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases)
