@@ -82,9 +82,9 @@ Karta | Flagga | Historia | Religion | Språk | Mat    | Kultur | Sights  |  Öv
 ✅    |✅       |✅        |✅        |✅     |✅       |✅       |✅       | ✅
 
 #### Yerevan
-Karta | Sights
---    |--
-✅    |✅     
+Karta | Sights  | Övrigt
+--    |--       |--
+✅    |✅        |✅
 
 
 ## 🇦🇱 Albanien
