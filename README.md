@@ -44,9 +44,7 @@ Europas geografi | 💭
 ## Ireland
 ## Northern Ireland
 ## Scotland
-## WAles
-
-
+## Wales
 ## Romania
 ## Belarus
 ## Kazakhstan
@@ -79,14 +77,14 @@ Europas geografi | 💭
 
 
 ## 🇦🇲 Armenien
-Karta | Flagga | Historia | Mat  | Kultur | Övrigt
---    |--      |--         |--    |--      | --
-❌    |❌       |❌        |❌     |❌      |❌    
+Karta | Flagga | Historia | Religion | Språk | Mat    | Kultur | Sights  |  Övrigt
+--    |--      |--        |--        |--     | --     | --     | --      | --
+✅    |✅       |✅        |✅        |✅     |✅       |✅       |✅       | --
 
 #### Yerevan
 Karta | Sights
 --    |--
-❌    |❌     
+✅    |✅     
 
 
 ## 🇦🇱 Albanien
