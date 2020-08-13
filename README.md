@@ -61,12 +61,28 @@ Karta | Flagga | Historia | Religion | Språk | Statsskick | Mat    | Kultur | S
 #### Vienna
 Karta | Sights  | Övrigt
 --    |--       |--
-❌    |❌        |❌
+✅    |❌        |❌
 
 #### Graz
+Karta | Sights  | Övrigt
+--    |--       |--
+✅    |❌        |❌
+
 #### Linz
+Karta | Sights  | Övrigt
+--    |--       |--
+✅    |❌        |❌
+
 #### Salzburg
+Karta | Sights  | Övrigt
+--    |--       |--
+✅    |❌        |❌
+
 #### Innsbruck
+Karta | Sights  | Övrigt
+--    |--       |--
+✅    |❌        |❌
+
 ## Czechia
 ## Serbia
 ## Kosovo
