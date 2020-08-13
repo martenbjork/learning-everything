@@ -54,7 +54,15 @@ Europas geografi | 💭
 ## Hungary
 ## Portugal
 ## Austria
+Karta | Flagga | Historia | Religion | Språk | Statsskick | Mat    | Kultur | Sights  |  Övrigt
+--    |--      |--        |--        |--     | --         | --     | --     | --      | --
+✅    |✅       |❌        |—         |✅      |✅          | ✅      |✅      | ❌       | ❌
+
 #### Vienna
+Karta | Sights  | Övrigt
+--    |--       |--
+❌    |❌        |❌
+
 #### Graz
 #### Linz
 #### Salzburg
@@ -77,9 +85,9 @@ Europas geografi | 💭
 
 
 ## 🇦🇲 Armenien
-Karta | Flagga | Historia | Religion | Språk | Mat    | Kultur | Sights  |  Övrigt
---    |--      |--        |--        |--     | --     | --     | --      | --
-✅    |✅       |✅        |✅        |✅     |✅       |✅       |✅       | ✅
+Karta | Flagga | Historia | Religion | Språk | Statsskick | Mat    | Kultur | Sights  |  Övrigt
+--    |--      |--        |--        |--     | --         | --     | --     | --      | --
+✅    |✅       |✅        |✅        |✅      |✅          |✅       |✅      | ✅       | ✅
 
 #### Yerevan
 Karta | Sights  | Övrigt
