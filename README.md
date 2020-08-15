@@ -54,9 +54,9 @@ Europas geografi | 💭
 ## Hungary
 ## Portugal
 ## Austria
-Karta | Flagga | Historia | Religion | Språk | Statsskick | Mat    | Kultur | Sights  |  Övrigt
---    |--      |--        |--        |--     | --         | --     | --     | --      | --
-✅    |✅       |❌        |—         |✅      |✅          | ✅      |✅      | ❌       | ❌
+Karta | Flagga | Historia | Religion | Språk | Statsskick | Mat    | Kultur | Sights  |  Ord |  Övrigt
+--    |--      |--        |--        |--     | --         | --     | --     | --      | --      | --
+✅    |✅       |❌        |—         |✅      |✅          | ✅      |✅      | ❌      | ❌      | ❌
 
 #### Vienna
 Karta | Sights  | Övrigt
@@ -101,9 +101,9 @@ Karta | Sights  | Övrigt
 
 
 ## 🇦🇲 Armenien
-Karta | Flagga | Historia | Religion | Språk | Statsskick | Mat    | Kultur | Sights  |  Övrigt
---    |--      |--        |--        |--     | --         | --     | --     | --      | --
-✅    |✅       |✅        |✅        |✅      |✅          |✅       |✅      | ✅       | ✅
+Karta | Flagga | Historia | Religion | Språk | Statsskick | Mat    | Kultur | Sights  |  Ord | Övrigt
+--    |--      |--        |--        |--     | --         | --     | --     | --      | --   | --
+✅    |✅       |✅        |✅        |✅      |✅          |✅       |✅      | ✅       | ❌   | ✅
 
 #### Yerevan
 Karta | Sights  | Övrigt
@@ -128,14 +128,9 @@ Karta | Sights
 ## Kosovo
 ## Cyprus
 ## Azerbaijan
-Karta | Flagga | Historia | Mat  | Kultur | Övrigt
---    |--      |--         |--    |--      | --
-❌    |❌       |❌        |❌     |❌      |❌    
+ 
 
 #### Baku
-Karta | Sights
---    |--
-❌    |❌     
 
 ## Luxembourg
 ## Georgia
